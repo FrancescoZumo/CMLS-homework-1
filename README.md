@@ -21,7 +21,7 @@ Example: `4_nicholas_26.wav`
 - Multi-Layer Perceptron (MLP)
 
 ### Implementation 
-The final code is `spoken_digit_classification_svm.ipynb`
+The final code is `spoken_digit_classification.ipynb`
 
 ### Info
 More infomation about the implementation are inside the report
