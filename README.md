@@ -14,9 +14,9 @@ Files are named in the following format: {digitLabel}_{speakerName}_{index}.wav
 Example: `4 nicholas 26.wav` which means that this is the 26th file in which the speaker Nicholas says the number four.
 
 ### Code
-the final code is `spoken_digit_classification_svm.ipynb`
+The final code is `spoken_digit_classification_svm.ipynb`
 
 ### Info
-monre infomationd about the code are inside the report 
+More infomation about the code are inside the report 
 
 
