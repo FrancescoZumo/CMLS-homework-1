@@ -9,14 +9,21 @@ Our assignment consisted in implementing a classifier able to pre-dict which dig
 - 3000 recordings (50 of each digit per speaker)
 - English pronunciations
 
-## Organization
 Files are named in the following format: {digitLabel}_{speakerName}_{index}.wav 
-Example: `4_nicholas_26.wav` which means that this is the 26th file in which the speaker Nicholas says the number four.
+Example: `4_nicholas_26.wav`
 
-### Code
+## Features 
+- Mel Frequency Cepstrum Coefficients (MFCC)
+
+## Classification methods
+- Gaussian Mixture Model (GMM)
+- Support Vector Machine (SVM)
+- Multi-Layer Perceptron (MLP)
+
+### Implementation 
 The final code is `spoken_digit_classification_svm.ipynb`
 
 ### Info
-More infomation about the code are inside the report 
+More infomation about the implementation are inside the report
 
 
