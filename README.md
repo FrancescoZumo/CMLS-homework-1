@@ -11,7 +11,7 @@ Our assignment consisted in implementing a classifier able to pre-dict which dig
 
 ## Organization
 Files are named in the following format: {digitLabel}_{speakerName}_{index}.wav 
-Example: `4 nicholas 26.wav` which means that this is the 26th file in which the speaker Nicholas says the number four.
+Example: `4_nicholas_26.wav` which means that this is the 26th file in which the speaker Nicholas says the number four.
 
 ### Code
 The final code is `spoken_digit_classification_svm.ipynb`
