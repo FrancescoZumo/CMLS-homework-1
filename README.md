@@ -24,6 +24,6 @@ Example: `4_nicholas_26.wav`
 The final code is `spoken_digit_classification.ipynb`
 
 ### Info
-More infomation about the implementation are inside the report
+More infomation about the implementation can be found inside the report
 
 
